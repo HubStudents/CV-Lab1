@@ -1,1 +1,1 @@
-# CV-Lab1
+Задание 1 Teachable Machine
